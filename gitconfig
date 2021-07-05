@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = iss.sliman@hotmail.fr
+	name = Sliman Issarane
